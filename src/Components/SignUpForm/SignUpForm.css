@@ -1,0 +1,32 @@
+.sign-up-form{
+    background: linear-gradient(90deg, rgb(24, 24, 26) 0%, rgb(152, 151, 160) 100%);
+    position:absolute;
+    padding: 350px;
+    padding-top: 50px;
+}
+
+.f-Name{
+    background-color: rgb(105, 103, 103);
+    border: none;
+    width: 100%;
+}
+
+.l-Name{
+    background-color: rgb(105, 103, 103);
+    border: none;
+}
+
+.email{
+    background-color: rgb(105, 103, 103);
+    border: none;
+}
+
+.password{
+    background-color: rgb(105, 103, 103);
+    border: none;
+}
+
+.conf-password{
+    background-color: rgb(105, 103, 103);
+    border: none;
+}

@@ -1,0 +1,203 @@
+.colors{
+ padding: 50px;
+ padding-top: 10px;
+ padding-bottom: 20px;
+}
+
+.color-palett{
+    padding: 50px;
+    background: linear-gradient(90deg, rgb(24, 24, 26) 0%, rgb(152, 151, 160) 100%);
+    margin:30px;
+    margin-right: 550px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.int-colors{
+    padding: 50px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.vehicles{
+    padding: 50px;
+}
+
+.vehicle-selection{
+    padding: 50px;
+}
+
+.color-title{
+    padding-left: 20px;
+    font-size: 30px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.interior-title{
+    padding-left: 20px;
+    font-size: 30px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.button-1{
+    padding: 20px;
+    margin: 10px;
+    background:linear-gradient(90deg, rgb(148, 32, 48) 0%, rgb(216, 21, 31) 100%);
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.10);
+}
+
+.button-2{
+    padding: 20px;
+    margin: 10px;
+    background:linear-gradient(90deg, rgb(45, 35, 97) 0%, rgb(137, 127, 199) 100%);
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.10);
+}
+
+.button-3{
+    padding: 20px;
+    margin: 10px;
+    background:linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(197, 197, 194) 100%);
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.10);
+}
+
+.button-4{
+    padding: 20px;
+    margin: 10px;
+    background:linear-gradient(90deg, rgb(207, 201, 202) 0%, rgb(82, 78, 78) 100%);
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.10);
+}
+
+.button-5{
+    padding: 20px;
+    margin: 10px;
+    background:linear-gradient(90deg, rgb(17, 99, 9) 0%, rgb(113, 194, 120) 100%);
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.10);
+}
+
+.button-6{
+    padding: 20px;
+    margin: 10px;
+    background:linear-gradient(90deg, rgb(85, 90, 15) 0%, rgb(132, 134, 10) 100%);
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.10);
+}
+
+.button-7{
+    padding: 20px;
+    margin: 10px;
+    background:linear-gradient(90deg, rgb(85, 66, 13) 0%, rgb(165, 109, 45) 100%);
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.10);
+}
+
+.button-8{
+    padding: 20px;
+    margin: 10px;
+    background:linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(46, 46, 45) 100%);
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.10);
+}
+
+.car{
+    height: 200px;
+    border-radius: 30px;
+    margin: 50px;
+    margin-left: 300px;
+}
+
+.seats{
+    height: 200px;
+    border-radius: 30px;
+    margin: 50px;
+}
+
+.a{
+    border-radius: 30px;
+    width: 100px;
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 30px;
+    background-color: #49494d;
+}
+
+.a:hover{
+    padding: 8px 20px;
+    transition: all 0.3s ease-in-out;
+    background: #fff;
+    color: #49494d;
+    transition: 250ms;
+}
+
+.b{
+    border-radius: 30px;
+    width: 100px;
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 30px;
+    background-color: #49494d;
+}
+
+.b:hover{
+    padding: 8px 20px;
+    transition: all 0.3s ease-in-out;
+    background: #fff;
+    color: #49494d;
+    transition: 250ms;
+}
+
+.c{
+    border-radius: 30px;
+    width: 100px;
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 30px;
+    background-color: #49494d;
+}
+
+.c:hover{
+    padding: 8px 20px;
+    transition: all 0.3s ease-in-out;
+    background: #fff;
+    color: #49494d;
+    transition: 250ms;
+}
+
+.d{
+    border-radius: 30px;
+    width: 100px;
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 30px;
+    background-color: #49494d;
+}
+
+.d:hover{
+    padding: 8px 20px;
+    transition: all 0.3s ease-in-out;
+    background: #fff;
+    color: #49494d;
+    transition: 250ms;
+}
+
+.e{
+    border-radius: 30px;
+    width: 100px;
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 30px;
+    background-color: #49494d;
+}
+
+.e:hover{
+    padding: 8px 20px;
+    transition: all 0.3s ease-in-out;
+    background: #fff;
+    color: #49494d;
+    transition: 250ms;
+}
+
+
